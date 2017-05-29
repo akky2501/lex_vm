@@ -1,0 +1,14 @@
+
+'a' 'b' '%' '\n' ' '
+
+int
+internal
+char
+character
+1023abcd
+abcd0123
+_12asdais
+@ #
+1923 asdf
+asdf 1233
+asdf_1244
